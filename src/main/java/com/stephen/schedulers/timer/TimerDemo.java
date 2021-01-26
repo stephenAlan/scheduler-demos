@@ -1,4 +1,4 @@
-package com.stephen.schedulers;
+package com.stephen.schedulers.timer;
 
 import java.util.Date;
 import java.util.Timer;
@@ -6,7 +6,7 @@ import java.util.TimerTask;
 
 /**
  * Created by ssc on 2021-01-26 12:32 .
- * Description:
+ * Description: jdk自带的timer
  */
 public class TimerDemo {
 
